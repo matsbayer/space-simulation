@@ -2,7 +2,7 @@
 
 ![planets]("planets.png")
 
-![sample video]("snapshot.mov")
+![sample video]("snapshot.gif")
 
 ### Features:
 
