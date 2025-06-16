@@ -1,0 +1,99 @@
+body {
+    background: #0a0a1a;
+    color: #fff;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+#space-canvas {
+    background: #111;
+    display: block;
+    margin: 20px auto;
+    border: 2px solid #333;
+    box-shadow: 0 0 20px #222;
+}
+
+#toggle-meteorites-btn {
+    background: #2ecc40;
+    color: #fff;
+    border: none;
+    border-radius: 18px;
+    padding: 10px 28px;
+    font-size: 1.1em;
+    font-weight: bold;
+    box-shadow: 0 2px 8px #1118;
+    cursor: pointer;
+    transition: background 0.2s;
+    margin-bottom: 20px;
+}
+#toggle-meteorites-btn.off {
+    background: #e74c3c;
+    color: #fff;
+}
+
+#add-planet-btn {
+    background: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 18px;
+    padding: 10px 28px;
+    font-size: 1.1em;
+    font-weight: bold;
+    box-shadow: 0 2px 8px #1118;
+    cursor: pointer;
+    transition: background 0.2s;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+#add-planet-btn:hover {
+    background: #217dbb;
+}
+
+#big-meteorite-btn {
+    background: #ff9800;
+    color: #fff;
+    border: none;
+    border-radius: 18px;
+    padding: 10px 28px;
+    font-size: 1.1em;
+    font-weight: bold;
+    box-shadow: 0 2px 8px #1118;
+    cursor: pointer;
+    transition: background 0.2s;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+#big-meteorite-btn:hover {
+    background: #e65100;
+}
+
+#spaceship-btn {
+    background: #8e44ad;
+    color: #fff;
+    border: none;
+    border-radius: 18px;
+    padding: 10px 28px;
+    font-size: 1.1em;
+    font-weight: bold;
+    box-shadow: 0 2px 8px #1118;
+    cursor: pointer;
+    transition: background 0.2s;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+#spaceship-btn:hover {
+    background: #5e3370;
+}
+
+.space-title {
+    font-family: 'Orbitron', 'Arial Black', Arial, sans-serif;
+    font-size: 2em;
+    letter-spacing: 0.12em;
+    background: linear-gradient(90deg, #00f0ff 20%, #fff 50%, #ff00cc 80%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0 0 18px #00f0ff, 0 0 32px #ff00cc, 0 0 4px #fff;
+    margin-top: 12px;
+    margin-bottom: 8px;
+    font-weight: bold;
+} 
