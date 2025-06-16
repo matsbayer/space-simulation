@@ -3,7 +3,7 @@ A dynamic space simulation where you can create planets, trigger meteor showers,
 Explore and interact with a destructible universe in real time.
 
 <p align="center">
-  <img src="snapshot.gif" alt="snapshot" width="200">
+  <img src="snapshot.gif" alt="snapshot" width="600">
 </p>
 
 ### Features:
