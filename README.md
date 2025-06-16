@@ -2,8 +2,9 @@
 A dynamic space simulation where you can create planets, trigger meteor showers, and launch spaceships. 
 Explore and interact with a destructible universe in real time.
 
-![sample video](snapshot.gif)
-
+<p align="center">
+  <img src="snapshot.gif" alt="snapshot" width="200">
+</p>
 
 ### Features:
 - #### Add new planets
