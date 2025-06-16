@@ -1,8 +1,8 @@
 # Space Simulation
 
-![planets]("planets.png")
+![planets](planets.png)
 
-![sample video]("snapshot.gif")
+![sample video](snapshot.gif)
 
 ### Features:
 
